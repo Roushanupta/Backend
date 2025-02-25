@@ -1,0 +1,4 @@
+DATABASE_URL=postgres://user:password@localhost:5432/linktree
+JWT_SECRET=your_jwt_secret
+SMTP_EMAIL=your-email@example.com
+SMTP_PASSWORD=your-email-password
