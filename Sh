@@ -1,0 +1,5 @@
+npm i -g @nestjs/cli
+nest new linktree-backend
+cd linktree-backend
+npm i @nestjs/config @nestjs/typeorm typeorm pg bcryptjs jsonwebtoken passport passport-jwt passport-local nodemailer class-validator class-transformer
+npm i -D @types/bcryptjs @types/jsonwebtoken @types/passport-jwt @types/passport-local
